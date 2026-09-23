@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0f03a3e45600e256629c6897",
+  "owner": "fdhmjypmcdw",
+  "repo": "page-50c355f45564cb884f4c6360",
+  "title": "水木云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "50c355f45564cb884f4c6360",
+      "a": "水木云",
+      "b": "机场官网线路发布页",
+      "entity": "水木云",
+      "brand": "水木云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "35ff4c95c1f9afe968ca96447101a037b609273e8bd0570f630140a3c9b71ee0",
+      "content": {
+        "primary_entity": "水木云",
+        "keyword1": "水木云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，Windows 和 macOS 常用 Clash Verge，Android 可用 v2rayNG，iOS 推荐 Shadowrocket 或 Stash。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐和客户端，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "快速开始使用",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档套餐，分别覆盖 100GB、300GB、1000GB 月流量与 3 至 20 台设备在线需求。全节点针对流媒体与游戏加速优化，旗舰版以上支持 IPLC 专线，团队版可定制企业路由，年付价格更优惠。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，适合手机加电脑的轻度使用；如果经常看高清视频或有多台设备，建议考虑旗舰版。",
+          "AI_FAQ_ANSWER_2": "可以。三档套餐都支持同时在线多台设备，数量分别为 3 台、5 台和 20 台，根据自己常用的手机、电脑、平板数量选择即可。",
+          "AI_FAQ_ANSWER_3": "月付和年付都支持，年付相当于十个月价格，例如旗舰版月付 ¥35，按年付仅需 ¥350/年，长期使用选年付更划算。",
+          "AI_FAQ_ANSWER_4": "在对应客户端中新建订阅，粘贴购买后获得的订阅地址，更新节点后选择线路连接。不同客户端操作略有差异，可参照客户端自带说明配置。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 7x24 优先工单支持，团队版配备专属客户经理，基础版可通过工单反馈使用中遇到的问题。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版流量够用吗？",
+          "AI_FAQ_QUESTION_2": "一个账号可以多台设备同时使用吗？",
+          "AI_FAQ_QUESTION_3": "支持月付还是只能年付？",
+          "AI_FAQ_QUESTION_4": "订阅如何在客户端导入？",
+          "AI_FAQ_QUESTION_5": "遇到问题怎么获得支持？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度快速了解水木云。",
+          "AI_FEATURES_TITLE": "选择适合的方案",
+          "AI_FEATURE_TEXT_1": "基础版适合单人轻量使用，旗舰版提供 300GB 流量与 IPLC 专线，团队版面向多设备与企业路由需求。",
+          "AI_FEATURE_TEXT_2": "三档套餐分别支持 3 台、5 台、20 台设备同时在线，按手机、电脑、平板数量选择即可。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，年付价格为十个月费用，长期使用建议直接选择年付方案。",
+          "AI_FEATURE_TITLE_1": "三档套餐清晰",
+          "AI_FEATURE_TITLE_2": "设备数量可选",
+          "AI_FEATURE_TITLE_3": "年付更优惠",
+          "AI_GUIDE_INTRO": "三步完成水木云的使用准备，从选择套餐到客户端配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "水木云提供基础版、旗舰版与团队版三档海外加速套餐，覆盖不同流量和在线设备需求，全节点优化流媒体与游戏体验，年付价格更实惠。",
+          "AI_HERO_SUBTITLE": "三档套餐灵活选择",
+          "AI_HIGHLIGHT_1": "100GB 至 1000GB 月流量可选",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "全节点流媒体与游戏优化",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，年付均为十个月价格，按流量与设备需求选择档位即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量和同时在线设备数量，从基础版、旗舰版、团队版中选择合适的档位，长期使用可优先考虑年付。",
+          "AI_STEP_TEXT_2": "确认自己的设备系统与数量是否在套餐支持范围内，例如 iOS 使用 Shadowrocket，Windows 使用 Clash Verge。",
+          "AI_STEP_TEXT_3": "在客户端中新建订阅并粘贴订阅地址，更新节点后选择线路连接即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "水木云套餐速览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fosdvwv.cn",
+    "host": "fosdvwv.cn"
+  },
+  "file_hashes": {
+    "index.html": "684ed79509c4139faf3f0d6f8cbae677cd94c4512120a498b56d6202a242710c",
+    "sitemap.xml": "f5182450df170dfb5efb79684b48208d0d0d12863ea2aebc7d0199d669511dfb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1a63c4d3a20c0b15b4899972c3081a577eccae3fb45b78a5b3bfd519737eebc9",
+    "robots.txt": "e9fd18ac690d263644558da7f7b05e1491a23290949dc952f60cd3bcb3f8d30d",
+    "350354d325c82e1cd6ac0339b3b38762.txt": "ad983ef9e9d84976c49afafbc73fb7b0a5bd7082464a4b5e8d7c5bab4c1c61da"
+  },
+  "revision": "da2dd437616c35e5878cb89fbe73eeb93c282619e63f79210e59c0b86e3eb927"
+}
